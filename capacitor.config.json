@@ -1,0 +1,13 @@
+{
+  "appId": "com.filmnote.app",
+  "appName": "FILM NOTE",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

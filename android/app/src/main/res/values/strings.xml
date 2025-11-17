@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FILM NOTE</string>
+    <string name="title_activity_main">FILM NOTE</string>
+    <string name="package_name">com.filmnote.app</string>
+    <string name="custom_url_scheme">com.filmnote.app</string>
+</resources>
